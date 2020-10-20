@@ -1,7 +1,37 @@
+/************* Tags ***********************/
+
+body { background-color:#a8dda8 }
+
+hr { 
+width: 30%;
+height: 3px;
+
+}
+
+img:hover{
+	
+background-color: Red;
+
+}
+
+/************ Classes ********************/
+
 .fit-picture {
      width: 100px;
   height: 100px;
   background-color: #cccccc;
+  border-radius: 100px;
+}
+.good {
+	background-color: Green;
+	}
+.bad
+{
+	background-color: Orange;
 }
 
-body { background-color:#a8dda8 }
+/****************** IDS ********************/
+
+#Head {
+	color: red;
+}
